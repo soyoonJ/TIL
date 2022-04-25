@@ -12,7 +12,7 @@ SPA를 사용할 때 하나의 html 페이지에 여러개의 자바스크립트
 
 컴파일 할 때 여러 모듈들의 파일을 읽어오는 데 시간이 오래 걸리는데, 이를 해결하기 위해 여러 파일을 하나의 파일로 번들링 해준다. 하나의 자바스크립트 파일로 만들어서 웹페이지 성능 최적화를 해준다.
 
-## ✅ **webpack vs Gulp vs Grunt vs Browserify**
+## ✅ **Webpack vs Gulp vs Grunt vs Browserify**
 
 **_“webpack = (Grunt || Gulp) + Browserify”_**
 
@@ -28,7 +28,7 @@ SPA를 사용할 때 하나의 html 페이지에 여러개의 자바스크립트
 - 브라우저에서 결과를 확인하려면 코드를 컴파일 해야 한다. 순수한 모듈 번들러로, 태스크러너 기능이 부족.
 - Browserify는 비슷한 도구이지만 속도면에서 webpack이 더 좋습니다.
 
-## ✅ \***\*Webpack5 Concepts\*\***
+## ✅ **Webpack5 Concepts**
 
 ### [Entry](https://webpack.js.org/concepts/#entry)
 
